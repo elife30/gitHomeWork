@@ -6,8 +6,8 @@ public class git01 {
 		// TODO Auto-generated method stub
 
 		System.out.println("hello");
-		System.out.println("hello2");
-		System.out.println("hello3");
+		System.out.println("hello world2");
+		System.out.println("hello world3");
 	}
 
 }
